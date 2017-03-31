@@ -1,0 +1,19 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "alexis",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
